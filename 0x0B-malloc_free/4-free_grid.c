@@ -4,12 +4,12 @@
 
 /**
   * free_grid - frees a 2D grid
-  * @height: height of grid 
+  * @height: height of grid
   * @grid: adress of the 2D grid
   * Return: nothing
   */
 
-void free_grid (int **grid, int height)
+void free_grid(int **grid, int height)
 {
 	int i;
 
